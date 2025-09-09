@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio - Kartikay Saini
+# 🌐 Personal Portfolio Website - Kartikay Saini
 
 A modern and responsive **portfolio website** built with **Next.js 15, React 18, and TypeScript**.  
 This portfolio showcases my **skills, projects, certifications, and professional journey** with a focus on **performance, accessibility, and clean design**.
